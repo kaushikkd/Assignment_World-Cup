@@ -46,7 +46,7 @@ main {
 }
 
 .banner_text button {
-    background: #D61C4E;
+    background: red;
     padding: 10px 22px;
     border: none;
     border-radius: 5px;
@@ -128,14 +128,14 @@ main {
 }
 
 .match_menu a {
-    color: black;
+    color: rgb(23, 21, 21);
     background-color: white;
     border-radius: 5px;
     padding: 10px 25px;
 }
 
 .match_menu a:nth-child(3) {
-    background-color: #D61C4E;
+    background-color: red;
     color: white;
 }
 
@@ -148,6 +148,7 @@ main {
 }
 
 .match_details {
+    background-color: rgb(239, 217, 191);
     border: 1px solid rgb(165, 160, 160);
     border-radius: 12px;
 }
